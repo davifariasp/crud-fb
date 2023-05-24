@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>923588403397-m6khrerlh0klgc1tfu7tct661281h159.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.923588403397-m6khrerlh0klgc1tfu7tct661281h159</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA06DYTPfPjT6bDIRiw81r6hsKLU0bljBo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>923588403397</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fbTeste</string>
+	<key>PROJECT_ID</key>
+	<string>crud-teste-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crud-teste-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:923588403397:ios:7ff30ccd2b40092b98d0ac</string>
+	<key>DATABASE_URL</key>
+	<string>https://crud-teste-flutter-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
